@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "*.php": "php",
+        "*.ipp": "cpp"
+    }
+}
